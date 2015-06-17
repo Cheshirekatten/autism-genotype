@@ -1,2 +1,2 @@
-# autism-genotype
+# autismgenotype
 Autism amateur genotyping software
